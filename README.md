@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&h=300&fit=crop" alt="banner" width="100%">
-</div>
 
-# ¡Hola! 👋 Soy Sofía Vartanian 
+# ¡Hola! 👋 Soy Sofía Vartanian Harutyunyan || Técnica Superior en DAM
 
 <div align="center">
 
