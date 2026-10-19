@@ -17,9 +17,9 @@
 ##  Sobre mí
 
 - 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en IES San Vicente
--  Experiencia en prácticas como Desarrolladora de Software en **NTT DATA** (2026)
+- 💻💼Experiencia en prácticas como Desarrolladora de Software en **NTT DATA** (2026)
 - 🛡️ Especializada en ciberseguridad y cifrado E2EE (Web Crypto API, AES-256-GCM)
--  🎮Interesada en desarrollo de videojuegos (Godot Engine, C#)
+- 🎮Interesada en desarrollo de videojuegos (Godot Engine, C#)
 - 🌐 Portfolio: [vartanian.es](https://vartanian.es)
 
 ---
