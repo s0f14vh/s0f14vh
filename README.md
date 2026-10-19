@@ -1,6 +1,5 @@
 
 # ¡Hola! 👋 Soy Sofía Vartanian Harutyunyan 
-Técnica Superior en DAM
 
 <div align="center">
 
@@ -84,13 +83,13 @@ Técnica Superior en DAM
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Enfoque y Objetivos
 
-- 🎓 Conseguir prácticas FCT como desarrolladora Full Stack
-- 🛡️ Profundizar en ciberseguridad y arquitectura de software
--  Seguir explorando el desarrollo de videojuegos
-- 🚀 Aprender nuevos frameworks y tecnologías emergentes
-- 💼 Crear proyectos profesionales de impacto
+- 🔭 **Búsqueda activa:** Prácticas FCT como **Desarrolladora Full Stack**.
+- 🌱 **Profundizando en:** Ciberseguridad, arquitectura de software y mejores prácticas de código.
+- 🎮 **Proyectos personales:** Desarrollo de videojuegos y prototipado interactivo.
+- 🚀 **Aprendizaje continuo:** Frameworks modernos y tecnologías emergentes.
+- 💼 **Meta:** Construir software escalable, seguro y de alto impacto profesional.
 
 ---
 
@@ -100,7 +99,7 @@ Técnica Superior en DAM
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vartanian.es-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vartanian.es)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofia.vartanian.harutyunyan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofía-vartanian-harutyunyan-b806b2258/?isSelfProfile=true)
 
 </div>
 
@@ -110,6 +109,6 @@ Técnica Superior en DAM
 
 **🎯 Actualmente buscando prácticas FCT** | ¡Hablemos de proyectos interesantes!
 
-> *"No solo escribo código, construyo soluciones."*
+> *"menkantan los gatos"*
 
 </div>
