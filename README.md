@@ -6,7 +6,7 @@
 
 <div align="center">
 
-**Técnica Superior en DAM** | 💡 Apasionada por el desarrollo Full Stack y la ciberseguridad
+| **Técnica Superior en DAM** |
 
 [Visitar mi portfolio 🌐](https://vartanian.es)
 
@@ -19,9 +19,7 @@
 - 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en IES San Vicente
 -  Experiencia en prácticas como Desarrolladora de Software en **NTT DATA** (2026)
 - 🛡️ Especializada en ciberseguridad y cifrado E2EE (Web Crypto API, AES-256-GCM)
--  Interesada en desarrollo de videojuegos (Godot Engine, C#)
--  Aprendiendo constantemente nuevas tecnologías y frameworks
--  Buscando prácticas FCT para aportar valor en entornos empresariales
+-  🎮Interesada en desarrollo de videojuegos (Godot Engine, C#)
 - 🌐 Portfolio: [vartanian.es](https://vartanian.es)
 
 ---
