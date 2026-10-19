@@ -1,71 +1,110 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkZD1mZmI4YzQwOS1iNjA5LTQ3NjYtOWE2Ni1kNzQ5MjQxNjA5ZGY&cid=ecf05e47p3g3v9q8r7t6y5u4i3o2p1a0z9x8c7v6b5n4m3l2k1j0h9g8f7e6d5c4b3a2&rid=giphy.gif" alt="banner" width="100%" style="border-radius: 8px;">
+</div>
 
-# ¡Hola! 👋 Soy Sofía Vartanian Harutyunyan 
+<h1 align="center">¡Hola! Soy Sofía Vartanian Harutyunyan </h1>
+
+<p align="center">
+  <strong>Técnica Superior en Desarrollo de Aplicaciones Multiplataforma</strong>
+</p>
+
+<p align="center">
+  <a href="https://vartanian.es"> vartanian.es</a> • 
+  📍 Alicante, España • 
+  📧 sofia.vartanian.harutyunyan@gmail.com
+</p>
+
+---
+
+## 🎯 Sobre mí
+
+Desarrolladora Full Stack con experiencia en **NTT DATA** (2026), especializada en **ciberseguridad** (E2EE, Web Crypto API) y apasionada por el desarrollo de **videojuegos** (Godot Engine, C#). Enfocada en código limpio, arquitecturas sólidas y metodologías ágiles.
+
+**Actualmente buscando prácticas FCT** para aportar valor y seguir creciendo profesionalmente.
+
+---
+
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
-| **Técnica Superior en DAM** |
+### Lenguajes & Backend
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&height=28)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&height=28)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&height=28)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&height=28)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&height=28)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&height=28)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&height=28)
 
-[Visitar mi portfolio 🌐](https://vartanian.es)
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&height=28)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&height=28)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&height=28)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&height=28)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&height=28)
+
+### Bases de Datos & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&height=28)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&height=28)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&height=28)
+
+### Game Development
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&height=28)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&height=28)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&height=28)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&height=28)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&height=28)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&height=28)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&height=28)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&height=28)
 
 </div>
 
 ---
 
-##  Sobre mí
-
-- 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en IES San Vicente
-- 💻💼Experiencia en prácticas como Desarrolladora de Software en **NTT DATA** (2026)
-- 🛡️ Especializada en ciberseguridad y cifrado E2EE (Web Crypto API, AES-256-GCM)
-- 🎮Interesada en desarrollo de videojuegos (Godot Engine, C#)
-- 🌐 Portfolio: [vartanian.es](https://vartanian.es)
-
----
-
-## 🚀 Tecnologías y herramientas
+##  Estadísticas de GitHub
 
 <div align="center">
 
-| Backend & Lenguajes | Frontend | Bases de Datos | Game Dev | Herramientas |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) | ![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![Godot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg) | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) |
-| ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) | ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) | ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) |
-| ![Kotlin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg) | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | | | ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) |
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | | | ![IntelliJ](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg) |
-| ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![Tailwind](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg) | | | ![Android Studio](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg) |
-| ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) | | | | ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s0f14vh&show_icons=true&theme=radical&count_private=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0f14vh&layout=compact&theme=radical&count_private=true&hide_border=true)
 
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s0f14vh&show_icons=true&theme=radical&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0f14vh&layout=compact&theme=radical&count_private=true)
-
-![Streak Stats](https://streak-stats.demolab.com?user=s0f14vh&theme=radical)
-
-</div>
-
----
-
-## 🎯 Proyectos destacados
+## 🚀 Proyectos Destacados
 
 ### 🔐 Chatty Secure Messenger
-**Node.js · Express · Socket.io · Vanilla JS · Supabase**
+<div align="center">
+  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
+[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io)
 
-- Plataforma de mensajería en tiempo real con arquitectura **Trust No One (TNO)**
-- Cifrado E2EE con Web Crypto API (AES-256-GCM) y derivación de claves (PBKDF2)
-- Gestión de sesiones con JWT y protección con Helmet.js
+</div>
 
-### 🎮 ProjectDoomLike
-**Godot Engine 4 · C#**
+- **Mensajería en tiempo real** con arquitectura Trust No One (TNO)
+- **Cifrado E2EE** con Web Crypto API (AES-256-GCM) + PBKDF2
+- **Gestión de sesiones** con JWT + Helmet.js para seguridad web
 
-- FPS 3D desarrollado aplicando Programación Orientada a Objetos (POO) pura en C#
-- HUD dinámico y reactivo con sistema de comunicación por Señales (Signals)
+---
+
+###  ProjectDoomLike - FPS 3D
+<div align="center">
+
+[![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)](https://godotengine.org)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
+
+</div>
+
+- **First Person Shooter** completo en Godot Engine 4 con C#
+- **Arquitectura POO** pura + sistema de Señales (Signals)
+- **HUD dinámico** y reactivo
 
 ---
 
@@ -73,33 +112,30 @@
 
 <div align="center">
 
-| Certificación | Institución | Año |
-|:---|:---|:---:|
-| ️ Certificado Profesional de Ciberseguridad | Google / Coursera | 2024 |
-| 💻 Certificado Profesional de Soporte de TI | Google / Coursera | 2024 |
-| 🌐 Networking Essentials | Cisco Networking Academy | 2024 |
+|  Certificación | 🏢 Institución | 📅 Año |
+|------------------|----------------|--------|
+| ️ Ciberseguridad Profesional | Google / Coursera | 2024 |
+| 💻 Soporte TI Profesional | Google / Coursera | 2024 |
+|  Networking Essentials | Cisco Networking Academy | 2024 |
 
 </div>
 
 ---
 
-## 🎯 Enfoque y Objetivos
+##  Formación Académica
 
-- 🔭 **Búsqueda activa:** Prácticas FCT como **Desarrolladora Full Stack**.
-- 🌱 **Profundizando en:** Ciberseguridad, arquitectura de software y mejores prácticas de código.
-- 🎮 **Proyectos personales:** Desarrollo de videojuegos y prototipado interactivo.
-- 🚀 **Aprendizaje continuo:** Frameworks modernos y tecnologías emergentes.
-- 💼 **Meta:** Construir software escalable, seguro y de alto impacto profesional.
+- **Técnico Superior DAM** (2025-2027) - IES San Vicente
+- **Bachillerato de Ciencias** (2021-2023) - IES María Blasco
 
 ---
 
-## 📬 Contacto
+## 📬 Conectemos
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vartanian.es-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vartanian.es)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofia.vartanian.harutyunyan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofía-vartanian-harutyunyan-b806b2258/?isSelfProfile=true)
+[![Portfolio](https://img.shields.io/badge/_Portfolio-vartanian.es-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vartanian.es)
+[![Email](https://img.shields.io/badge/_Email-sofia.vartanian.harutyunyan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofia.vartanian.harutyunyan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Sofía_Vartanian-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofía-vartanian-harutyunyan-b806b2258/)
 
 </div>
 
@@ -107,8 +143,10 @@
 
 <div align="center">
 
-**🎯 Actualmente buscando prácticas FCT** | ¡Hablemos de proyectos interesantes!
+### 🎯 Disponible para prácticas FCT
 
-> *"menkantan los gatos"*
+> *"No solo escribo código, construyo soluciones"*
+
+**🐱 menkantan los gatos**
 
 </div>
