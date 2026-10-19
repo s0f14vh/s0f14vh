@@ -1,5 +1,6 @@
 
-# ¡Hola! 👋 Soy Sofía Vartanian Harutyunyan || Técnica Superior en DAM
+# ¡Hola! 👋 Soy Sofía Vartanian Harutyunyan 
+Técnica Superior en DAM
 
 <div align="center">
 
